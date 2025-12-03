@@ -1,0 +1,9 @@
+{
+    "name": "Ankit",
+    "age": 22,
+    "skills": ["Python", "Java", "Machine Learning"],
+    "education": {
+        "college": "KIIT",
+        "degree": "B.Tech"
+    }
+}
